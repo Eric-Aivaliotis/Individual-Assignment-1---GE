@@ -1,0 +1,2 @@
+There are 2 assets folders because github says the assets folder 
+has too many files so I split them up
